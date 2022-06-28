@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\bin\Debug\net6.0\DZ_1lesson.exe
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\bin\Debug\net6.0\DZ_1lesson.deps.json
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\bin\Debug\net6.0\DZ_1lesson.runtimeconfig.json
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\bin\Debug\net6.0\DZ_1lesson.dll
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\bin\Debug\net6.0\DZ_1lesson.pdb
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\obj\Debug\net6.0\DZ_1lesson.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\obj\Debug\net6.0\DZ_1lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\obj\Debug\net6.0\DZ_1lesson.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\obj\Debug\net6.0\DZ_1lesson.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\obj\Debug\net6.0\DZ_1lesson.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\obj\Debug\net6.0\DZ_1lesson.dll
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\obj\Debug\net6.0\refint\DZ_1lesson.dll
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\obj\Debug\net6.0\DZ_1lesson.pdb
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\obj\Debug\net6.0\DZ_1lesson.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\УНИВЕР\уроки С#\Семинары\DZ\DZ 1\DZ_1lesson\obj\Debug\net6.0\ref\DZ_1lesson.dll
